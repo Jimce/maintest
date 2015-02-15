@@ -1,4 +1,7 @@
+
+#ignore thumbnails created by windows
 Thumbs.db
+#Ignore files build by Visual Studio
 *.obj
 *.exe
 *.pdb
@@ -10,7 +13,6 @@ Thumbs.db
 *_p.c
 *.ncb
 *.suo
-*.sln.docstates
 *.tlb
 *.tlh
 *.bak
@@ -25,5 +27,6 @@ obj/
 [Rr]elease*/
 _ReSharper*/
 [Tt]est[Rr]esult*
-*.vssscc
-$tf*/
+ipch/maintest-a42cd9a3/maintest-30433391.ipch
+Test.sdf
+Test.opensdf
