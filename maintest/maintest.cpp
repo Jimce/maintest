@@ -11,6 +11,6 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<addcpp(5,6);
 	return 0;
 }
-fdsffsfs
+
 
 
